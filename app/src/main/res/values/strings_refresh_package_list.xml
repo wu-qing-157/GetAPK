@@ -1,0 +1,7 @@
+<resources>
+    <string name="get_package_list">Getting package list&#8230;</string>
+    <string name="sort_package">Sorting packages&#8230;</string>
+    <string name="resolve_packages">Resolving packages&#8230;</string>
+    <string name="done">Done</string>
+    <string name="tap_to_refresh_package_list">Tap to refresh package list.</string>
+</resources>
